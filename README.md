@@ -1,2 +1,2 @@
 # Deep-Probability-Aggregation-Clustering
-ECCV paper 'Deep Probability Aggregation Clustering' official code
+PyTorch Implementation for ECCV 2024 paper： 'Deep Probability Aggregation Clustering' official code
