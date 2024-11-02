@@ -11,7 +11,7 @@ PyTorch implementation for ECCV 2024 paper： '**Deep Probability Aggregation Cl
 -cudatoolkit>=11.0
 
 ## Usage
-Simply run `python train.py` to strat the **contrastive pre-training**.\
-Then run `python train.py` to deploy **Deep Probability Aggregation Clustering**.\
+Simply run `python pretrain_step.py` to strat the **contrastive pre-training**.\
+Then run `python clustering_step.py` to deploy **Deep Probability Aggregation Clustering**.\
 We also provide the Python implementation `python train.py`. for machine clustering algorithm: '**Probability Aggregation Clustering**'.
 
